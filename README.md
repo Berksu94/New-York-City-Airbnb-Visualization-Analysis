@@ -1,4 +1,4 @@
-# New-York-City-Airbnb-Visualization-Analysis
+# NewYork City Airbnb Visualization Analysis
 
 Aygaz Data Analysis Bootcamp Project
 
